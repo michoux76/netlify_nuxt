@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/84cf263b-6ae6-492b-95df-8f7ceba79a6b/deploy-status)](https://app.netlify.com/sites/coruscating-sable-d916af/deploys)
 # netlify_nuxt
 
 ## Build Setup
